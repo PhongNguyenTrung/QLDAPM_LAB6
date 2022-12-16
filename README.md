@@ -1,1 +1,2 @@
-This is a repository for lab 6 of Software Project Management
+"# QLDAPM_LAB6" 
+ This is a readme file for lab 6 for software project management
